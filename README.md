@@ -49,7 +49,7 @@ $ cd MaratonaExplorer
 
 ## 📝 License
 
-Este projeto está sob a licença do MIT. Veja <a href="https://github.com/ElisonMichell/maratona-explorer/blob/main/LICENSE.md">LICENSE</a> para maiores informações.
+Este projeto está sob a licença do MIT. Veja <a href="https://github.com/ElisonMichell/maratona-explorer/blob/main/LICENSE">LICENSE</a> para maiores informações.
 
 ##
 
